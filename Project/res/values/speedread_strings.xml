@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="speeds">
+        <item>@string/speed_1</item>
+        <item>@string/speed_2</item>
+        <item>@string/speed_3</item>
+        <item>@string/speed_4</item>
+        <item>@string/speed_5</item>
+        <item>@string/speed_6</item>
+        <item>@string/speed_7</item>
+        <item>@string/speed_8</item>
+        <item>@string/speed_9</item>
+        <item>@string/speed_10</item>
+        <item>@string/speed_11</item>
+    </array>
+</resources>

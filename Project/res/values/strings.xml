@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name" translatable="false">SpeedRead</string>
+    <string name="action_settings">Settings</string>
+    <string name="read">read</string>
+
+    <string name="fitari_advertisement" translatable="false">Fitari advertisement</string>
+    <string name="fitari_logo" translatable="false">Fitari Logo</string>
+    <string name="fitness_alarm_clock" translatable="false">Fitness Alarm Clock</string>
+    <string name="fitari_ad_sentence" translatable="false">This app knows how to wake you up.  Get up and stay fit -  with the Fitari Fitness Alarm Clock!</string>
+    <string name="download_app">Download App</string>
+    <string name="download">download</string>
+    <string name="speed_1">Slow (200)</string>
+    <string name="speed_2">Unhurried (300)</string>
+    <string name="speed_3">Normal (375 WpM)</string>
+    <string name="speed_4">Fast (450)</string>
+    <string name="speed_5">Ambitious (525)</string>
+    <string name="speed_6">Talented (600)</string>
+    <string name="speed_7">Skimming (700)</string>
+    <string name="speed_8">Top level (1000)</string>
+    <string name="speed_9">Top contestant (1500)</string>
+    <string name="speed_10">World Champion (4700)</string>
+    <string name="speed_11">Impossible (10000)</string>
+    <string name="settings">Settings</string>
+    <string name="words_per_minute_wpm">Words per Minute (WpM):</string>
+    <string name="terms_of_service_link_nbit_ly_speed_tos">Terms of Service link: \nbit.ly/speed-tos</string>
+    <string name="privacy_policy_link_nbit_ly_speed_priv">Privacy Policy link: \nbit.ly/speed-priv</string>
+    <string name="rate_app">rate app</string>
+    <string name="copy_paste_your_text_here">Copy-paste your text here…</string>
+    <string name="clear">clear</string>
+    <string name="conc_on_dot">Concentrate on the dot</string>
+    <string name="ad_link_fitClock">https://bit.ly/fitClock</string>
+    <string name="link_funWiki">https://bit.ly/funWiki</string>
+    <string name="url_example">URL example</string>
+    <string name="url_example_text">Did you know that you can read the text of a website directly into this app?\n\nI did copy-paste an example link that you might find interesting.\nPress the button below to load its text!</string>
+    <string name="rate_app_title">Rate SpeedRead?</string>
+    <string name="rate_app_text">Enjoy reading texts with SpeedRead? \nYou could help us by rating the app on Google Play! \nDo you want to rate it now?</string>
+    <string name="rate_app_link">https://bit.ly/speedreadapp</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="tutorial_1">Type/Copy text you want to read here</string>
+    <string name="tutorial_2">You can also copy an URL into this field to read its text</string>
+    <string name="tutorial_3">Press here to speed read the text</string>
+    <string name="tutorial_3b">You\'ll notice how much faster you\'re capable to read text now!</string>
+    <string name="tutorial_4">Choose a text file</string>
+    <string name="tutorial_4b">to receive its text</string>
+    <string name="tutorial_5">Go to the settings</string>
+    <string name="tutorial_5b">to change the reading speed</string>
+    <string name="tutorial_6">Share the app</string>
+    <string name="tutorial_6b">if it was useful for you and you\'d like to support it</string>
+    <string name="tutorial_7">Clear text</string>
+    <string name="tutorial_7b">to free up the text field</string>
+    <string name="tutorial_8">Now you know everything about this app</string>
+    <string name="tutorial_8b">Have fun speedreading! :)</string>
+    <string name="tutorial_lastText">Do you want to read more stuff while still being able to grasp what you\'re reading?\nGuess what, your mind is amazing &amp; you can read much faster than you thought. The typical reader can read about 200 words per minute with an understanding of about 60 per cent if you read from left to right. \nBut if you read it one word at a time without having to move your head, you will raise your words per minute without losing your comprehension!\nNot buying it?\nGo ahead and press the button below or Paste your own text, OR type in an URL. Enjoy :)</string>
+    <string name="tos_title">Privacy Agreement &amp; Terms of Service</string>
+    <string name="tos_text">\"Do you agree to the Terms of Service (TOS) and the Privacy Policy? \nYou can find them here: \"</string>
+    <string name="thanks">Thank you!</string>
+    <string name="agree">I agree</string>
+    <string name="share_app_string">It\'s possible! Read Text quicker than ever before - with the SpeedRead app. \n\nhttps://bit.ly/speedreadapp\n#SpeedRead #AndroidApp</string>
+    <string name="select_text_file">Select Text File</string>
+    <string name="okay">okay</string>
+
+    <string name="info_pause_title">Did you know?</string>
+    <string name="info_pause_text">You can stop the text flow. To do this, simply tap on the screen while you\'re speedreading!</string>
+    <string name="info_bookmark_text">You can bookmark a long text and read it later. While reading, do a long back press &amp; choose \"bookmark\". \n\nThe text you didn\'t read yet will automatically be loaded when you restart the app.</string>
+
+    <string name="white_mode">White mode</string>
+
+    <string name="copied_1">Copied</string>
+    <string name="copied_2">words, =</string>
+    <string name="copied_3">minutes.</string>
+
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmark_loaded">Bookmark loaded.</string>
+    <string name="text_bookmarked">Text bookmarked!</string>
+    <string name="always_bookmark_nwhen_closing">Always bookmark\nwhen closing</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="gradient_start">#c6d0fc</color>
+    <color name="gradient_end">#bef5ea</color>
+
+    <color name="white_trans">#9FFFFFFF</color>
+    <color name="white_trans2">#39FFFFFF</color>
+    <color name="white_trans_100">#00FFFFFF</color>
+
+    <color name="blue">#0000FF</color>
+    <color name="ad_gradient_start">#9a0095</color>
+    <color name="ad_gradient_end">#9a5000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="ad_button_bg">#009A0B</color>
+</resources>
