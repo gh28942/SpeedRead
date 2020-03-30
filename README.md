@@ -15,6 +15,10 @@ A speedreading app written in Java. Features loading from txt &amp; URLs, and bo
 </ul>
 <br>
 
+You can see the app in use here: https://www.youtube.com/watch?v=4TYBgoA7F1A
+
+<br>
+
 ## Screenshots
 
 <p align="center">
