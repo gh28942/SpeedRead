@@ -18,7 +18,7 @@ A speedreading app written in Java. Features loading from txt &amp; URLs, and bo
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/gh28942/SpeedRead/master/screenshot/scr1.jpg" width="30%">
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/gh28942/SpeedRead/master/screenshot/scr2.jpg" width="30%">
 <br>Copy text into the text area or load it from an URL directly into the app.</br>
 <br>
