@@ -13,8 +13,9 @@ A speedreading app written in Java. Features loading from txt &amp; URLs, and bo
 <li>English and German language (specified in the strings.xml files)</li>
 <li>Implements the <a href="https://github.com/gh28942/Android-default-offline-CrossPromo-Ad">offline ad</a>.</li>
 </ul>
+<br>
 
-<hr>
+## Screenshots
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/gh28942/SpeedRead/master/screenshot/scr1.jpg" width="30%">
